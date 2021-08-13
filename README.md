@@ -8,6 +8,7 @@ If u want to see this app u can visit https://super-search-ten.vercel.app/
 - `ReactJS`
 - `React Router`
 - `Tailwind CSS`
+- `Axios`
 
 ### `yarn install`
 
