@@ -34,7 +34,7 @@ const PopularSeries = () => {
                   {item.title == null || undefined ? item.name : item.title}
                 </p>
                 <p className="font-bold text-xl text-center">
-                  {item.release_date && item.release_date.substring(0, 4)}
+                  {item.first_air_date && item.first_air_date.substring(0, 4)}
                 </p>
                 <p className="mt-2 text-gray-700 text-base">{item.overview}</p>
               </div>
