@@ -1,6 +1,6 @@
 # SuperSearch
 
-SuperSearch is a movie and series searcher app.
+SuperSearch is a movie and series searcher app.\
 If u want to see this app u can visit https://super-search-ten.vercel.app/
 
 ## Tech Used
